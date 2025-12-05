@@ -97,7 +97,7 @@ _Last updated: 5 Dec 2025_
 | **EloreToken** | `0x8E9abdF8759B0d2863A030E49406C05b30ed43Ed` | ✅ Deployed | ✅ Verified |
 | **MerchantRegistry** | `0xC61C8C198E82E60f3DE422812ea8395b6B808e1B` | ✅ Deployed | ✅ Verified |
 | **RewardDistributor** | `0x8Cd94160d912b4E646c49Fe7f3fEE6c9226Ec7c2` | ✅ Deployed | ✅ Verified |
-| **CashbackEngine** | _pending_ | ❌ Not deployed | ❌ Pending |
+| **CashbackEngine** | 0xE7d6820Af1f01bcB4608Af906f0f387f78E7E441 |  deployed | verified |
 | **Staking** | _pending_ | ❌ | ❌ |
 | **LoyaltyStreaks** | _pending_ | ❌ | ❌ |
 | **UserLevels** | _pending_ | ❌ | ❌ |
