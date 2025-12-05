@@ -1,0 +1,22 @@
+{
+  "network": "polygon-mainnet",
+  "chainId": 137,
+  "contracts": {
+    "EloreToken": "",
+    "MerchantRegistry": "",
+    "RewardDistributor": "",
+    "CashbackEngine": "",
+    "Staking": "",
+    "LoyaltyStreaks": "",
+    "UserLevels": "",
+    "ReferralRewards": "",
+    "RandomBonus": "",
+    "PurchaseQuests": "",
+    "MerchantStaking": "",
+    "ProxyAdminAndTimelock": ""
+  },
+  "deployer": "",
+  "deploymentDate": "",
+  "verification": {},
+  "notes": "Mainnet L1 deployment will include Token, Registry, Distributor. L2 modules added later."
+}
