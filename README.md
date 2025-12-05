@@ -1,4 +1,7 @@
-# ![ELR Banner](banner.png)  
+<p align="center">
+  <img src="assets/banner.png" alt="ELR Banner" width="100%">
+</p>
+
 # 🚀 ELR Protocol – Mainnet Deployment Repository
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
