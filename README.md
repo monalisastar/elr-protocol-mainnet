@@ -176,8 +176,7 @@ Each script automatically:
 
 | Name | Role |
 |------|------|
-| **Brian Njau Njata** | Founder, Lead Developer, Architect |
-| **ChatGPT (AI Assistant)** | Engineering support, debugging, system design |
+| **Brian Njau Njata** | Founder, Lead Developer, Architect |Engineering support, debugging, system design |
 
 ---
 
