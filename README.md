@@ -66,7 +66,7 @@ Merchant tier–based real-time cashback engine.
 
 ---
 
-# 🧩 Ecosystem Diagram (Updated — No Timelock)
+# 🧩 Ecosystem Diagram 
 
 ```mermaid
 graph TD
